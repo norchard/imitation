@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.28cb4e13.css",
-    "main.js": "/static/js/main.941342b7.js",
+    "main.js": "/static/js/main.8fdf0f95.js",
     "static/js/787.7d9aa932.chunk.js": "/static/js/787.7d9aa932.chunk.js",
+    "static/media/kangaroo-desktop.jpg": "/static/media/kangaroo-desktop.8aa6dfebb24ad37fbfd7.jpg",
+    "static/media/nelson-farms.jpg": "/static/media/nelson-farms.6970e331d66dec376385.jpg",
     "static/media/ceramics-15.jpg": "/static/media/ceramics-15.71fb7aadd18d8a0805c3.jpg",
     "static/media/ceramics-14.jpg": "/static/media/ceramics-14.a54ad2d30825c34a751c.jpg",
     "static/media/ceramics-1.jpg": "/static/media/ceramics-1.fca4908f86c75e22760b.jpg",
@@ -14,11 +16,11 @@
     "static/media/compiler-1.jpg": "/static/media/compiler-1.caff9b57f6cd3cdd0df7.jpg",
     "index.html": "/index.html",
     "main.28cb4e13.css.map": "/static/css/main.28cb4e13.css.map",
-    "main.941342b7.js.map": "/static/js/main.941342b7.js.map",
+    "main.8fdf0f95.js.map": "/static/js/main.8fdf0f95.js.map",
     "787.7d9aa932.chunk.js.map": "/static/js/787.7d9aa932.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28cb4e13.css",
-    "static/js/main.941342b7.js"
+    "static/js/main.8fdf0f95.js"
   ]
 }
